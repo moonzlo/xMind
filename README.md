@@ -1,2 +1,2 @@
 # xMind
-midl maps 
+Мои Mid карты ! 
